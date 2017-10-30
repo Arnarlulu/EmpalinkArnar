@@ -1,6 +1,7 @@
 package com.empatica.sample;
 
 //SJEKK UT DEN RUMPA
+//Skrutvold
 
 import android.Manifest;
 import android.app.Activity;
